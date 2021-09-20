@@ -4,3 +4,4 @@
 ## 2. Regression
 ### 2a. Simple Linear Regression ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Regression/Simple%20Linear%20Regression/simple_linear_regression_samrat.ipynb)
 ### 2b. Multiple Linear Regression ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Regression/Multiple%20Linear%20Regression/multiple_linear_regression_samrat.ipynb)
+### 2c. Polynomial Regression ✅ [Google Colab File Available here] (https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Regression/Polynomial%20Regression/polynomial_regression_samrat.ipynb)
