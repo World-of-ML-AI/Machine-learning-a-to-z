@@ -8,3 +8,6 @@
 ### 2 d. Support Vector Regression (SVR) ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Regression/SVR%20(Support%20Vector%20Regression)/support_vector_regression_samrat.ipynb)
 ### 2 e. Decision Tree Regression ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Regression/Decision%20Tree%20Regression/decision_tree_regression_samrat.ipynb)
 ### 2 f. Random Forest Regression ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Regression/Random%20Forest%20Regression/random_forest_regression_samrat.ipynb)
+
+## 3. Classification 
+### 3 a. Logistic Regression ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Classification/Logistic%20Regression/logistic_regression_samrat.ipynb)
