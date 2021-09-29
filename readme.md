@@ -15,3 +15,4 @@
 ### 3 c. Support Vector Machine Classifier (SVM) ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Classification/Support%20Vector%20Machine(SVM)/support_vector_machine_samrat.ipynb)
 ### 3 d. Kernel SVM ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/tree/main/Classification/Kernel%20SVM)
 ### 3 e. Naive Bayes' Classification ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Classification/Naive%20Bayes%20Classification/naive_bayes_samrat.ipynb)
+### 3 f. Decision Tree Classification ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Classification/Decision%20Tree%20Classifier/decision_tree_classification_samrat.ipynb)
