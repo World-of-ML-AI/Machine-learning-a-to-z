@@ -14,3 +14,4 @@
 ### 3 b. K Nearest Neighbor Classifier (K-NN) ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Classification/K%20Nearest%20Neighbor%20Classifier/k_nearest_neighbors_samrat.ipynb)
 ### 3 c. Support Vector Machine Classifier (SVM) ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Classification/Support%20Vector%20Machine(SVM)/support_vector_machine_samrat.ipynb)
 ### 3 d. Kernel SVM ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/tree/main/Classification/Kernel%20SVM)
+### 3 d. Naive Bayes' Classification ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Classification/Naive%20Bayes%20Classification/naive_bayes_samrat.ipynb)
