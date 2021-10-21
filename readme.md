@@ -21,3 +21,6 @@
 ## 4. Clustering (Unsupervised Learning)
 ### 4 a. KMeans Clustering ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Clustering/K%20Means%20Clustering/k_means_clustering_samrat.ipynb)
 ### 4 b. Hierarchical Clustering ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Clustering/Hierarchical%20Clustering/hierarchical_clustering_samrat.ipynb)
+
+## 5. Association Rule Learning
+### 5 a. Apriori ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Association%20Rule%20Learning/Apriori/apriori_samrat.ipynb)
