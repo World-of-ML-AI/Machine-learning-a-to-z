@@ -24,3 +24,4 @@
 
 ## 5. Association Rule Learning
 ### 5 a. Apriori ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Association%20Rule%20Learning/Apriori/apriori_samrat.ipynb)
+### 5 b. Eclat ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Association%20Rule%20Learning/Eclat/eclat_samrat.ipynb)
