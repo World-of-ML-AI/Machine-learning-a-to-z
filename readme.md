@@ -30,3 +30,6 @@
 ### 6 a. Upper Confidence Bound (UCB) ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Reinforcement%20Learning/Upper%20Confidence%20Bound%20(UCB)/upper_confidence_bound_samrat.ipynb)
 ### 6 b (Part-01). Thompson Sampling for 10000 Rounds ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Reinforcement%20Learning/Thompson%20Sampling/Copy_of_thompson_sampling_samrat_for_10000_rounds.ipynb)
 ### 6 b (Part-02). Thompson Sampling for 500 Rounds (Here it performs better than the UCB Algorithm) ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Reinforcement%20Learning/Thompson%20Sampling/thompson_sampling_samrat_for_500_rounds.ipynb )
+
+## 7. Natural Language Processing (NLP)
+### Sentiment Analysis ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Natural%20Language%20Processing(NLP)/Sentiment%20Analysis%20of%20Restaurant%20Reviews/natural_language_processing_samrat.ipynb)
