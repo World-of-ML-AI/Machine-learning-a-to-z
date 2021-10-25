@@ -1,6 +1,7 @@
 ## This file will contain all the notebooks I will be creating while learning Machine Learning
 
-## 1. Data Preprocessing ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Data%20Preprocessing/data_preprocessing_tools_samrat.ipynb)
+## 1. Data Preprocessing
+### Data Preprocessing Template ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Data%20Preprocessing/data_preprocessing_tools_samrat.ipynb)
 ## 2. Regression (Supervised Learning)
 ### 2 a. Simple Linear Regression ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Regression/Simple%20Linear%20Regression/simple_linear_regression_samrat.ipynb)
 ### 2 b. Multiple Linear Regression ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Regression/Multiple%20Linear%20Regression/multiple_linear_regression_samrat.ipynb)
@@ -32,4 +33,4 @@
 ### 6 b (Part-02). Thompson Sampling for 500 Rounds (Here it performs better than the UCB Algorithm) ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Reinforcement%20Learning/Thompson%20Sampling/thompson_sampling_samrat_for_500_rounds.ipynb )
 
 ## 7. Natural Language Processing (NLP)
-### Sentiment Analysis ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Natural%20Language%20Processing(NLP)/Sentiment%20Analysis%20of%20Restaurant%20Reviews/natural_language_processing_samrat.ipynb)
+### 7 a. Sentiment Analysis ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Natural%20Language%20Processing(NLP)/Sentiment%20Analysis%20of%20Restaurant%20Reviews/natural_language_processing_samrat.ipynb)
