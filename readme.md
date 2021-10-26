@@ -35,3 +35,6 @@
 
 ## 7. Natural Language Processing (NLP)
 ### 7 a. Sentiment Analysis ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Natural%20Language%20Processing(NLP)/Sentiment%20Analysis%20of%20Restaurant%20Reviews/natural_language_processing_samrat.ipynb)
+
+## 8. Deep Learning
+### 8 a. Artificial Neural Network (ANN) ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Deep%20Learning/Artificial%20Neural%20Network%20(ANN)/ANN%20For%20Classification/artificial_neural_network_for_classification_samrat.ipynb)
