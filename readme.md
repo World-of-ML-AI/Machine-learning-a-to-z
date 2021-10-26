@@ -13,6 +13,8 @@ Regression is a supervised learning technique which helps in finding the correla
 or more predictor variables. It is mainly used for prediction, forecasting, time series modeling, and determining the causal-effect relationship between variables.
 </p>
 <p>  In Regression, we plot a graph between the variables which best fits the given datapoints, using this plot, the machine learning model can make predictions about the data. In simple words, "Regression shows a line or curve that passes through all the datapoints on target-predictor graph in such a way that the vertical distance between the datapoints and the regression line is minimum." The distance between datapoints and line tells whether a model has captured a strong relationship or not.
+</p>
+<p>
 <b>Some examples of regression can be as: Prediction of rain using temperature and other factors, Determining Market trends, Prediction of road accidents due to rash driving.</b>
 </p>
 
