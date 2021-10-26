@@ -1,9 +1,19 @@
-# Machine Learning A to Z
+# Machine Learning A to Z (By Kiril and Hadelin from Udemy)
 ## This file will contain all the notebooks I will be creating while learning Machine Learning
+### The notes are prepared by [Samrat Mitra](https://github.com/lionelsamrat10)
 
 ## 1. Data Preprocessing
 ### Data Preprocessing Template ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Data%20Preprocessing/data_preprocessing_tools_samrat.ipynb)
 ## 2. Regression (Supervised Learning)
+<p>
+  Regression analysis is a statistical method to model the relationship between a dependent (target) and independent (predictor) variables with one or more independent variables. More specifically, Regression analysis helps us to understand how the value of the dependent variable is changing corresponding to an independent variable when other independent variables are held fixed. It predicts continuous/real values such as temperature, age, salary, price, etc.
+  Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables. It is mainly used for prediction, forecasting, time series modeling, and determining the causal-effect relationship between variables.
+  In Regression, we plot a graph between the variables which best fits the given datapoints, using this plot, the machine learning model can make predictions about the data. In simple words, "Regression shows a line or curve that passes through all the datapoints on target-predictor graph in such a way that the vertical distance between the datapoints and the regression line is minimum." The distance between datapoints and line tells whether a model has captured a strong relationship or not.
+  Some examples of regression can be as:
+  - Prediction of rain using temperature and other factors
+  - Determining Market trends
+  - Prediction of road accidents due to rash driving.
+</p>
 ### 2 a. Simple Linear Regression ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Regression/Simple%20Linear%20Regression/simple_linear_regression_samrat.ipynb)
 ### 2 b. Multiple Linear Regression ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Regression/Multiple%20Linear%20Regression/multiple_linear_regression_samrat.ipynb)
 ### 2 c. Polynomial Regression (Non Linear) ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Regression/Polynomial%20Regression/polynomial_regression_samrat.ipynb)  
