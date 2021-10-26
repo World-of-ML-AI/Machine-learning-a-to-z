@@ -2,7 +2,7 @@
 ## This file will contain all the notebooks I will be creating while learning Machine Learning
 ### The notes are prepared by [Samrat Mitra](https://github.com/lionelsamrat10)
 
-## Machine Learning
+## What is Machine Learning ?
 
 <p>
   <b>Machine learning</b> is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it to learn for themselves.
@@ -10,6 +10,9 @@
 <p>
 The process of learning begins with observations or data, such as examples, direct experience, or instruction, in order to look for patterns in data and make better decisions in the future based on the examples that we provide. The primary aim is to allow the computers learn automatically without human intervention or assistance and adjust actions accordingly.
 </p>
+
+## Types of Machine Learning
+
 <p>
   <b>Supervised machine learning algorithms</b> can apply what has been learned in the past to new data using labeled examples to predict future events. Starting from the analysis of a known training dataset, the learning algorithm produces an inferred function to make predictions about the output values. The system is able to provide targets for any new input after sufficient training. The learning algorithm can also compare its output with the correct, intended output and find errors in order to modify the model accordingly.
 </p>
@@ -47,6 +50,14 @@ or more predictor variables. It is mainly used for prediction, forecasting, time
 ### 2 f. Random Forest Regression ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Regression/Random%20Forest%20Regression/random_forest_regression_samrat.ipynb)
 
 ## 3. Classification (Supervised Learning)
+
+<p><b>The Classification algorithm</b> is a Supervised Learning technique that is used to identify the category of new observations on the basis of training data. In Classification, a program learns from the given dataset or observations and then classifies new observation into a number of classes or groups. Such as, Yes or No, 0 or 1, Spam or Not Spam, cat or dog, etc. Classes can be called as targets/labels or categories.</p>
+<p>Unlike regression, the output variable of Classification is a category, not a value, such as "Green or Blue", "fruit or animal", etc. Since the Classification algorithm is a Supervised learning technique, hence it takes labeled input data, which means it contains input with the corresponding output.</p>
+<p>In classification algorithm, a discrete output function(y) is mapped to input variable(x).</p>
+<p>The best example of an ML classification algorithm is <b>Email Spam Detector.</b></p>
+<p>The main goal of the Classification algorithm is to identify the category of a given dataset, and these algorithms are mainly used to predict the output for the categorical data.</p>
+<p>Classification algorithms can be better understood using the below diagram. In the below diagram, there are two classes, class A and Class B. These classes have features that are similar to each other and dissimilar to other classes.</p>
+
 ### 3 a. Logistic Regression ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Classification/Logistic%20Regression/logistic_regression_samrat.ipynb)
 ### 3 b. K Nearest Neighbor Classifier (K-NN) ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Classification/K%20Nearest%20Neighbor%20Classifier/k_nearest_neighbors_samrat.ipynb)
 ### 3 c. Support Vector Machine Classifier (SVM) ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Classification/Support%20Vector%20Machine(SVM)/support_vector_machine_samrat.ipynb)
