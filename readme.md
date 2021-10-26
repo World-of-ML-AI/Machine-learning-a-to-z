@@ -5,7 +5,7 @@
 ## Machine Learning
 
 <p>
-Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it to learn for themselves.
+  <b>Machine learning</b> is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it to learn for themselves.
 </p>
 <p>
 The process of learning begins with observations or data, such as examples, direct experience, or instruction, in order to look for patterns in data and make better decisions in the future based on the examples that we provide. The primary aim is to allow the computers learn automatically without human intervention or assistance and adjust actions accordingly.
@@ -22,6 +22,7 @@ In contrast, <b>unsupervised machine learning algorithms</b> are used when the i
 <p>
   <b>Reinforcement machine learning algorithms</b> is a learning method that interacts with its environment by producing actions and discovers errors or rewards. Trial and error search and delayed reward are the most relevant characteristics of reinforcement learning. This method allows machines and software agents to automatically determine the ideal behavior within a specific context in order to maximize its performance. Simple reward feedback is required for the agent to learn which action is best; this is known as the reinforcement signal.
 </p>
+
 ## 1. Data Preprocessing
 ### Data Preprocessing Template ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Data%20Preprocessing/data_preprocessing_tools_samrat.ipynb)
 ## 2. Regression (Supervised Learning)
