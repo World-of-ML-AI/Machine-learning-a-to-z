@@ -67,6 +67,21 @@ or more predictor variables. It is mainly used for prediction, forecasting, time
 ### 3 g. Random Forest Classification ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Classification/Decision%20Tree%20Classifier/decision_tree_classification_samrat.ipynb)
 
 ## 4. Clustering (Unsupervised Learning)
+
+<p><b>Clustering</b> or cluster analysis is a machine learning technique, which groups the unlabelled dataset. It can be defined as "A way of grouping the data points into different clusters, consisting of similar data points. The objects with the possible similarities remain in a group that has less or no similarities with another group."</p>
+<p>t does it by finding some similar patterns in the unlabelled dataset such as shape, size, color, behavior, etc., and divides them as per the presence and absence of those similar patterns.</p>
+<p>It is an unsupervised learning
+method, hence no supervision is provided to the algorithm, and it deals with the unlabeled dataset.</p>
+<p>After applying this clustering technique, each cluster or group is provided with a cluster-ID. ML system can use this id to simplify the processing of large and complex datasets.</p>
+<p>The clustering technique can be widely used in various tasks. Some most common uses of this technique are:
+
+Market Segmentation
+Statistical data analysis
+Social network analysis
+Image segmentation
+Anomaly detection, etc.
+</p>
+
 ### 4 a. KMeans Clustering ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Clustering/K%20Means%20Clustering/k_means_clustering_samrat.ipynb)
 ### 4 b. Hierarchical Clustering ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Clustering/Hierarchical%20Clustering/hierarchical_clustering_samrat.ipynb)
 
