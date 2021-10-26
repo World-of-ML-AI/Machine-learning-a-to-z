@@ -74,12 +74,13 @@ or more predictor variables. It is mainly used for prediction, forecasting, time
 method, hence no supervision is provided to the algorithm, and it deals with the unlabeled dataset.</p>
 <p>After applying this clustering technique, each cluster or group is provided with a cluster-ID. ML system can use this id to simplify the processing of large and complex datasets.</p>
 <p>The clustering technique can be widely used in various tasks. Some most common uses of this technique are:
-
-Market Segmentation
-Statistical data analysis
-Social network analysis
-Image segmentation
+<b>
+Market Segmentation,
+Statistical data analysis,
+Social network analysis,
+Image segmentation,
 Anomaly detection, etc.
+</b>
 </p>
 
 ### 4 a. KMeans Clustering ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Clustering/K%20Means%20Clustering/k_means_clustering_samrat.ipynb)
