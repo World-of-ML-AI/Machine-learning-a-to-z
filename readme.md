@@ -132,3 +132,6 @@ Neural networks have been used on a variety of tasks, including computer vision,
 <p>
 As of 2017, neural networks typically have a few thousand to a few million units and millions of connections. Despite this number being several order of magnitude less than the number of neurons on a human brain, these networks can perform many tasks at a level beyond that of humans (e.g., recognizing faces, playing "Go" ).
 </p>
+
+## 9. Dimensionality reduction
+### 9a. Principal Component Analysis (PCA) ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Dimensionality%20Reduction/Principal%20Component%20Analysis%20(PCA)/principal_component_analysis_samrat.ipynb)
