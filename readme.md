@@ -1,4 +1,4 @@
-# Machine Learning A to Z (By Kiril and Hadelin from Udemy)
+# Machine Learning A to Z (By Kiril and Hadelin from Udemy) 
 ## This file will contain all the notebooks I will be creating while learning Machine Learning
 ### The notes are prepared by [Samrat Mitra](https://github.com/lionelsamrat10)
 
