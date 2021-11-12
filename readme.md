@@ -138,3 +138,5 @@ As of 2017, neural networks typically have a few thousand to a few million units
 ### 9 b. Linear Discriminant Analysis (LDA) ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Dimensionality%20Reduction/Linear%20Discriminant%20Analysis%20(LDA)/linear_discriminant_analysis_samrat.ipynb)
 ### 9 c. Kernel PCA ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Dimensionality%20Reduction/Kernel%20PCA/kernel_pca_samrat.ipynb)
 
+## 10. Boosting
+### 10 a. XG Boost  ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Boosting/XG%20Boost%20Classifier%20using%20Python/xg_boost_samrat.ipynb)
